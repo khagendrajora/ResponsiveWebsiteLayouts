@@ -1,4 +1,4 @@
 # ResponsiveWebsiteLayouts
 # Deploy
-fblogin-k.netlify.app
-microsoft-official.netlify.app
+https://fblogin-k.netlify.app
+https://microsoft-official.netlify.app/
